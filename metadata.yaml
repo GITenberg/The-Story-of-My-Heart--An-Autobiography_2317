@@ -1,0 +1,37 @@
+_repo: The-Story-of-My-Heart--An-Autobiography_2317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: The Story of My Heart is an autobiography, first published in 1883, by
+  English nature writer, essayist and journalist Richard Jefferies. It is no true
+  autobiography, but the story of a soul's awakening. Richard Jefferies describes
+  how, leaving aside all the preconceptions of past and future, he placed himself
+  in the eternal Now, and allowed the Now to become his soul's only guide and source
+  of nourishment. Thus freed from the usual blocks to awareness, Jefferies' senses
+  became windows for his soul, through which the natural world could be seen in its
+  true, dazzling brilliance. Jefferies descri.
+gutenberg_issued: '2000-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Naturalists -- Great Britain -- Biography'
+- !lcsh 'Country life -- England'
+- !lcsh 'Natural history -- England'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Jefferies, Richard, 1848-1887'
+- GITenberg
+title: 'The Story of My Heart: An Autobiography'
+url: http://www.gutenberg.org/ebooks/2317
