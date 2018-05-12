@@ -1,5 +1,8 @@
 _repo: The-Story-of-My-Heart--An-Autobiography_2317
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jefferies, Richard
@@ -17,6 +20,8 @@ description: The Story of My Heart is an autobiography, first published in 1883,
   of nourishment. Thus freed from the usual blocks to awareness, Jefferies' senses
   became windows for his soul, through which the natural world could be seen in its
   true, dazzling brilliance. Jefferies descri.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2317#The-Story-of-My-Heart--An-Autobiography
 gutenberg_issued: '2000-09-01'
 gutenberg_type: Text
 identifiers:
